@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x290ef72b46e9b13e2da1e7ce1f0ea64b9b4914ed",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x290ef72b46e9b13e2da1e7ce1f0ea64b9b4914ed",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BEAR MARKET",
+  "SYMBOL": "BMB",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 10000000000000,
+  "DISPLAY_COST": 0.00001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fambb",
+  "SHOW_BACKGROUND": true
+}
